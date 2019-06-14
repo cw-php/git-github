@@ -1,0 +1,47 @@
+.sayfa{
+			
+    width:360px;
+    margin:auto;
+}
+
+
+h1{
+    text-align: center;
+    color: 	#00FF00;
+    background: black;
+}
+
+table{
+    background:#efefef;
+    border-spacing: 7px;
+    text-align: center;
+
+}
+
+table .btn{
+    width: 60px;
+    background:gray;
+    text-align: center;
+    line-height: 60px;
+    color:#fff;
+    font-size: 1.5em;
+}
+#islem, #gosterge{
+    padding:5px;
+    text-align: right;
+}
+
+#gosterge{
+    height: 60px;
+    background:#ddfafa;
+    color:#333;
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding:10px;
+    box-sizing: border-box;
+}
+#islem{
+    background: #aaa;
+    height: 15px;
+}
